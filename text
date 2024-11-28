@@ -1,0 +1,5 @@
+login credential:
+
+admin@rbac.com : admin_password
+moderator@rbac.com : moderator_password
+user@rbac.com : user_password
